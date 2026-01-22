@@ -3,7 +3,7 @@
 - [英文文档(原版)](https://autowarefoundation.github.io/autoware-documentation/main/home/)
 - [中文文档(当前)](https://tomato-ros.github.io/autoware-documentation-cn/)
 
-基于 [autoware-documentation](https://github.com/autowarefoundation/autoware-documentation) 进行翻译.
+基于 [autoware-documentation](https://github.com/autowarefoundation/autoware-documentation) 进行翻译。
 
 
 Autoware-documentation 中文文档项目是面向全球领先开源自动驾驶框架 Autoware 的中文本地化技术文档工程，旨在消除中文开发者的语言壁垒，让国内自动驾驶领域的研究者、工程师与爱好者能高效掌握 Autoware 的使用与开发方法。
